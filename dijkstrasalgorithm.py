@@ -39,5 +39,3 @@ while x < algoLen:
 print(algoList)
 
 
-
-   
